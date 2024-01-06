@@ -15,4 +15,4 @@
 <h1 align="center">Hi 👋, I'm Afonso Manuel Dinis de Paula</h1>
 <h3 align="center">Tech Explorer | Embracing the Beauty of Code in Every Language 🌐 | Constantly Curious 🔍</h3>
 
-- 🔭 I’m currently pursuing a **Master's degree** in **Computer Science** at the **University of Beira Interior** 🚀
+<h4 align="center">🔭 I’m currently pursuing a **Master's degree** in **Computer Science** at the **University of Beira Interior** 🚀</h4> 
